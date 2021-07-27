@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="https://github.com/leiaoliver/beautysalon/blob/main/github/preview.png"/>
+  <img alt="  <img alt="OriginSix" src=".github/preview.png" width="100%">">
 </p>
 
 ## 🚀 Tecnologias
