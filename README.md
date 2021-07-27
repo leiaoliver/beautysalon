@@ -2,7 +2,7 @@
     <body>
         <title></title>
       
-            <p align = "center">
+            <p>
             <a>Tecnologias<a/>
             <a>Projeto</a>
             <a>Layout</a>
