@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <img alt="https://github.com/leiaoliver/beautysalon/blob/main/github/preview.png?raw=true">
+  <img alt="https://github.com/leiaoliver/beautysalon/blob/main/github/preview.png?raw=true"/>
 </p>
 
 ## 🚀 Tecnologias
@@ -31,7 +31,7 @@ Utilitários
 - [randomuser.me](https://randomuser.me/photos)
 - [IconMoon](https://icomoon.io/app/#/select)
 
-## 💻 Projeto.
+## 💻 Projeto
 
 OriginSix é uma página institucional no formato One Page, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer
 
