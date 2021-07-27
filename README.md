@@ -37,15 +37,12 @@ OriginSix é uma página institucional no formato One Page, responsiva, para usa
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/YJ21RnZoelU6tthwExzMVP/Origin-Six). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/mCqwLRw95w4y9xSphrUszL/Origin-Six-(Copy)?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## 📝 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
 ---
 
-Feito com by Rocketseat - NLW (next level week)
+Feito com Rocketseat - NLW (next level week)
             
       
          
