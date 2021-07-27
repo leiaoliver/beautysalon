@@ -7,9 +7,9 @@
 
   </head>
   <body>
-    <header id="header">
+    <header id="heaer">
       <nav class="container">
-        <a class="logo" href="#">beauty<span>salon</span>.</a>
+        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
         <!-- menu -->
         <div class="menu">
           <ul class="grid">
