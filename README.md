@@ -9,7 +9,7 @@
   <body>
     <header id="heaer">
       <nav class="container">
-        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+        <img src="https://github.com/rocketseat-education/nlw-06-origin/blob/main/.github/preview.png?raw=true" />
         <!-- menu -->
         <div class="menu">
           <ul class="grid">
