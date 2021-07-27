@@ -15,13 +15,10 @@
             <li><a class="title" href="#home">Tecnologias</a></li>
             <li><a class="title" href="#about">Projeto</a></li>
             <li><a class="title" href="#services">Layout</a></li>
-            <li><a class="title" href="#testimonials">Licença</a></li>
+            <li><a class="title" href="#testimonials">Licença</a>
+             <img src="https://github.com/rocketseat-education/nlw-06-origin/blob/main/.github/preview.png?raw=true" /></li>
             
-             <img src="https://github.com/rocketseat-education/nlw-06-origin/blob/main/.github/preview.png?raw=true" />
-            </div>
-          </nav>
-        </header>
-      </body>
-    </html>
             
+      
+         
        
