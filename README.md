@@ -4,7 +4,7 @@
     <!-- PAGE INFO -->
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>OriginSix</title>
+    <title></title>
 
   </head>
   <body>
@@ -19,7 +19,4 @@
             <li><a class="title" href="#services">Layout</a></li>
             <li><a class="title" href="#testimonials">Licença</a></li>
             
-          </ul>
-        </div>
-        </body>
-      </head>
+       
